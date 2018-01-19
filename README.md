@@ -1,5 +1,5 @@
 # spatial-gravity-model-data
-Replication data and R script to build dyadic data sets for spatial gravity models
+Replication data for spatial gravity analysis and R script to build dyadic data sets for spatial gravity models
 
 Paper using the data: http://bit.ly/2DrfUAb 
 
